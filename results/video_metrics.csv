@@ -1,10 +1,4 @@
 variant,episode,seed,mean_return,success,episode_length,action_diversity,video_path
-independent,1,50000,-69.37865208994717,0.0,50,0.8,videos\independent\episode_01.mp4
-independent,2,50001,-82.50786563725808,0.0,50,0.93,videos\independent\episode_02.mp4
-independent,3,50002,-73.23250266130435,0.0,50,0.71,videos\independent\episode_03.mp4
-shared,1,50000,-66.66367424739464,0.0,50,0.71,videos\shared\episode_01.mp4
-shared,2,50001,-68.9710962073832,0.0,50,0.85,videos\shared\episode_02.mp4
-shared,3,50002,-64.08633953337221,0.0,50,0.71,videos\shared\episode_03.mp4
-shared_id,1,50000,-72.70819946738314,0.0,50,0.73,videos\shared_id\episode_01.mp4
-shared_id,2,50001,-66.91411171767673,0.0,50,0.77,videos\shared_id\episode_02.mp4
-shared_id,3,50002,-53.64066624504133,0.0,50,0.81,videos\shared_id\episode_03.mp4
+independent,1,50000,-73.89287307988408,0.0,50,0.83,videos\independent\episode_01.mp4
+shared,1,50000,-57.675404311469265,0.0,50,0.69,videos\shared\episode_01.mp4
+shared_id,1,50000,-67.84873929287993,0.0,50,0.46,videos\shared_id\episode_01.mp4
