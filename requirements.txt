@@ -1,0 +1,9 @@
+torch>=2.2
+mpe2==1.1.0
+numpy
+pandas
+matplotlib
+tqdm
+imageio
+imageio-ffmpeg
+jupyter

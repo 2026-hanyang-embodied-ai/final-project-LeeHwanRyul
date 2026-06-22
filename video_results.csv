@@ -1,0 +1,11 @@
+mode,episode,seed,mean_return,video
+shared,1,50000,-19.862045289102323,videos\shared\episode_01.mp4
+shared,2,50001,-22.425651797155368,videos\shared\episode_02.mp4
+shared,3,50002,-17.146930208261203,videos\shared\episode_03.mp4
+shared,4,50003,-18.922925403227016,videos\shared\episode_04.mp4
+shared,5,50004,-16.718065237629297,videos\shared\episode_05.mp4
+independent,1,50000,-34.44846268892429,videos\independent\episode_01.mp4
+independent,2,50001,-26.183355837460784,videos\independent\episode_02.mp4
+independent,3,50002,-13.067611442073977,videos\independent\episode_03.mp4
+independent,4,50003,-35.875294670088856,videos\independent\episode_04.mp4
+independent,5,50004,-28.496450407478207,videos\independent\episode_05.mp4
