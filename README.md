@@ -10,6 +10,10 @@ Three IPPO variants are compared in the MPE Simple Spread environment:
 
 A random policy is also evaluated as a baseline.
 
+## Youtube Links
+
+* https://www.youtube.com/watch?v=YaCwtyu4JsU
+
 ## Project Files
 
 * `final-project.ipynb`: complete training, evaluation, plotting, and video generation code
